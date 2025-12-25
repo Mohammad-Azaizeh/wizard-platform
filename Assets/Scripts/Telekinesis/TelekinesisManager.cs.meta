@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 29758588bdb10f943808a1c1e4ece9a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - abilityData: {fileID: 11400000, guid: 63ea3ad738fadc344b42e29e89b6d185, type: 2}
+  - playerTransform: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  - telekinesisLine: {instanceID: 0}
+  - pullEffect: {instanceID: 0}
+  - pushEffect: {instanceID: 0}
+  - holdEffect: {instanceID: 0}
+  - telekinesisUsedEvent: {fileID: 11400000, guid: a85094b6ec989d947a3bc5cb96831ff9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

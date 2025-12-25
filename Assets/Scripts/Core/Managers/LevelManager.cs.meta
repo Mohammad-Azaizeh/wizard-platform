@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7ee139c61ccf9eb4187ae2a8b117beff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelCompletedEvent: {fileID: 11400000, guid: 1601e32adee583b4fa5d872af0ce4a47, type: 2}
+  - timeExpiredEvent: {fileID: 11400000, guid: d50a5643c4b0a8f42b7d133024f1679e, type: 2}
+  - playerDiedEvent: {fileID: 11400000, guid: 2ad94813e4d4f9744ba7f4cc2fef67ac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

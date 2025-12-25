@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce85aa8d9d7c12d4e8514e0b176caacd, type: 3}
+  m_Name: DefaultPlayerStats
+  m_EditorClassIdentifier: 
+  moveSpeed: 5
+  acceleration: 50
+  deceleration: 50
+  jumpForce: 12
+  gravityScale: 3
+  fallGravityMultiplier: 1.5
+  maxFallSpeed: 20
+  airControl: 0.8
+  groundCheckDistance: 0.3
+  groundLayers:
+    serializedVersion: 2
+    m_Bits: 1280
+  maxHealth: 1
+  hasInvincibilityFrames: 1
+  invincibilityDuration: 1
+  moveSpeedParam: MoveSpeed
+  isGroundedParam: IsGrounded
+  jumpTrigger: Jump
+  deathTrigger: Death

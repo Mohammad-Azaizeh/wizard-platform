@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0773a33a7e84c7c478b311528a67b38f, type: 3}
+  m_Name: Boulder_SO
+  m_EditorClassIdentifier: 
+  obstacleName: 
+  obstacleType: 0
+  description: 
+  killsPlayer: 1
+  damageAmount: 1
+  isMoving: 0
+  moveSpeed: 2
+  moveDistance: 5
+  movementPattern: 0
+  isFallingPlatform: 0
+  fallDelay: 0.5
+  respawnDelay: 3
+  isBoulder: 0
+  boulderMass: 10
+  canBeStoppedByTelekinesis: 1
+  obstacleColor: {r: 1, g: 0, b: 0, a: 1}
+  pulseWarning: 0
+  pulseSpeed: 1

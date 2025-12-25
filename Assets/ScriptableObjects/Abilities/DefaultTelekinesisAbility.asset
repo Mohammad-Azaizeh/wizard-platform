@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5e5c8b5cd2df4a4f8ec9806c88927f6, type: 3}
+  m_Name: DefaultTelekinesisAbility
+  m_EditorClassIdentifier: 
+  maxRange: 10
+  minRange: 1
+  pullForce: 15
+  pushForce: 15
+  holdForce: 20
+  targetLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  aimAssistRadius: 0.5
+  holdDistance: 3
+  holdSmoothing: 10
+  maxHoldTime: 30
+  canRotateObjects: 1
+  rotationSpeed: 90
+  targetHighlightColor: {r: 0, g: 1, b: 1, a: 1}
+  holdColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
